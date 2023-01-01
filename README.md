@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<p align="left"> <img src="https://l.top4top.io/p_2548wqnhd0.jpg" alt="jayedh298" /> </p>
+<p align="left"> <img src="https://e.top4top.io/p_25578f3ci0.jpg" alt="JAYED-HOSSEN" /> </p>
 
 
 - 🔭 I’m currently working on **python programming**
@@ -34,4 +34,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayedh298&show_icons=true&locale=en" alt="jayedh298" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayedh298&" alt="jayedh298" /></p>
+<p><img align="center" src="https://l.top4top.io/p_2557xu6kv0.jpg" alt="JAYED-HOSSEN" /></p>
