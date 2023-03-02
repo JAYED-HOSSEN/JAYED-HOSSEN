@@ -19,8 +19,14 @@
 </p>
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
  
 <h3 align="center"> TEM MAFIYA SAILENT KILLER</h3>
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
+
+<p align="center"><img src="https://b.top4top.io/p_2617hcmwu0.jpg">
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JAYED-HOSSEN&label=Profile%20views&color=eb4d3d&style=flat-square" alt="JAYED-HOSSEN" /> </p>
 </i></b></h3>
