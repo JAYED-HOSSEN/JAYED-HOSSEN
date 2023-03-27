@@ -61,7 +61,7 @@
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- ☠️𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊:- [MD TAHMID AHMED](https://www.facebook.com/rjridoykhan.ridoy.334)
+- ☠️𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊:- [MD TAHMID AHMED](https://www.facebook.com/MR.DEVIL.JAYED)
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
